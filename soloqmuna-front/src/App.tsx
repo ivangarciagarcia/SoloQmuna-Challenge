@@ -1,7 +1,9 @@
+import { Home } from './modules/home/Home';
+import './app.css';
 function App() {
   return (
     <div className="App">
-        HOLA 
+      <Home />
     </div>
   );
 }
