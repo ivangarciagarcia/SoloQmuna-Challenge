@@ -1,0 +1,20 @@
+.portrait {
+  display: flex;
+  justify-content: center;
+  background-color: brown;
+  margin: 10px;
+  width: 35%;
+}
+
+.photo {
+  display: flex;
+  height: auto;
+  min-width: 100%;
+  margin: 10px;
+}
+
+@media screen and (max-width: 576px) {
+  .portrait {
+    width: 80%;
+  }
+}
