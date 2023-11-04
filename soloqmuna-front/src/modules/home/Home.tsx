@@ -1,6 +1,7 @@
 import { NavBar } from 'src/components/navBar/NavBar';
 import { Portrait } from 'src/components/portrait/Portrait';
 import './home.css';
+import { Tabla } from '../../components/tabla/Tabla';
 
 export const Home = () => {
   return (
@@ -9,6 +10,10 @@ export const Home = () => {
       <section className="portraits">
         <Portrait src={''} />
         <Portrait src={''} />
+      </section>
+
+      <section className="content">
+        <Tabla />
       </section>
     </div>
   );

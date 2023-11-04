@@ -1,0 +1,26 @@
+/* Estilo para centrar la tabla en la página y hacer el fondo blanco */
+.tabla-container {
+  margin-top: 20px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+}
+
+/* Estilo para la tabla */
+.tabla {
+  text-align: center;
+}
+
+/* Estilo para las celdas del encabezado */
+th {
+  border: 1px solid #ffffff; /* Establece los bordes de las celdas del encabezado */
+  padding: 8px;
+  text-align: left;
+}
+
+/* Estilo para las celdas de datos */
+td {
+  border: 1px solid #ffffff; /* Establece los bordes de las celdas de datos */
+  padding: 8px;
+  text-align: left;
+}
