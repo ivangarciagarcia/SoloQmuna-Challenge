@@ -1,1 +1,0 @@
-# SoloQomuna-Challenge
