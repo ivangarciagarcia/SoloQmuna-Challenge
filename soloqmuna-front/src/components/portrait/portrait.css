@@ -1,7 +1,6 @@
 .portrait {
   display: flex;
   justify-content: center;
-  background-color: brown;
   margin: 10px;
   width: 35%;
 }

@@ -8,8 +8,8 @@ export const Home = () => {
     <div>
       <NavBar img={'/img/logo.png'} alt={'logo'} item1={'SoloQmunaChallenge'} />
       <section className="portraits">
-        <Portrait src={''} />
-        <Portrait src={''} />
+        <Portrait src={'/img/jvs.png'} />
+        <Portrait src={'/img/harry.png'} />
       </section>
 
       <section className="content">
