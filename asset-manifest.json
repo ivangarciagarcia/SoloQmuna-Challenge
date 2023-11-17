@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SoloQmuna-Challenge/static/css/main.7c2b6364.css",
+    "main.js": "/SoloQmuna-Challenge/static/js/main.20390ea7.js",
+    "static/js/496.5439863d.chunk.js": "/SoloQmuna-Challenge/static/js/496.5439863d.chunk.js",
+    "index.html": "/SoloQmuna-Challenge/index.html",
+    "main.7c2b6364.css.map": "/SoloQmuna-Challenge/static/css/main.7c2b6364.css.map",
+    "main.20390ea7.js.map": "/SoloQmuna-Challenge/static/js/main.20390ea7.js.map",
+    "496.5439863d.chunk.js.map": "/SoloQmuna-Challenge/static/js/496.5439863d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c2b6364.css",
+    "static/js/main.20390ea7.js"
+  ]
+}
